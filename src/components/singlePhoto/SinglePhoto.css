@@ -1,0 +1,11 @@
+/* src/component/singlePhoto/SinglePhoto.css */
+.single-photo {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .single-photo img {
+    max-width: 100%;
+    height: auto;
+  }
+  

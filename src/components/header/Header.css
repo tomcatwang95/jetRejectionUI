@@ -1,0 +1,24 @@
+/* src/component/header/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-right input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .header-right button {
+    padding: 5px 10px;
+  }
+  
